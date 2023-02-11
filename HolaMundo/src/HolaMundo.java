@@ -9,6 +9,6 @@ public class HolaMundo {
 		int y=2;
 		System.out.println("cambio desde Eclipse 3");
 		int z=2;
-		int zx=3;
+		int zx=4;
 	}
 }
