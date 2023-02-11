@@ -7,5 +7,6 @@ public class HolaMundo {
 		int x=1;
 		System.out.println("Cambio desde Consola 2");
 		int y=2;
+		System.out.println("cambio desde Eclipse 2");
 
 }
