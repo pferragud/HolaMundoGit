@@ -5,6 +5,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("cambio desde Eclipse");
 		int x=1;
+		System.out.println("Cambio desde Consola");
 	}
 
 }
