@@ -8,5 +8,6 @@ public class HolaMundo {
 		System.out.println("Cambio desde Consola 2");
 		int y=2;
 		System.out.println("cambio desde Eclipse 3");
-
+		int z=2;
+	}
 }
