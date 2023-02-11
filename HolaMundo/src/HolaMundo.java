@@ -3,9 +3,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int x=2;
-		int y=0;
-		int z=1;
+		System.out.println("cambio desde Eclipse");
 	}
 
 }
