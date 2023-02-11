@@ -5,6 +5,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		int x=2;
 		int y=0;
+		int z=1;
 	}
 
 }
